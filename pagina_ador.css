@@ -61,8 +61,8 @@ footer {
     padding: 1%;
 }
 #carouselExampleIndicators{
-    width: 760px;
-    height: 315px;
+    width: 100%;
+    
 }
 #presentacion{
     border: 1px solid black;
@@ -70,14 +70,12 @@ footer {
     
     width:760px;
 }
-#titulo_home{
-    text-align: center;
-}
-#home{
-    text-align: center;
-}
+
+
 .navbar-collapse{
     justify-content: center;
 }
 
-
+#logo{
+    
+}
