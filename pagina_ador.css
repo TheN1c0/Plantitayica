@@ -2,12 +2,16 @@
 esto permite usar flex en las cosas que están dentro,
 los números flex, indican la distribución
 */
+body{
+    background-image:url(fondo.png) ;
+}
 #part_principal {
     position: absolute;
     top: 50px;
     bottom: 40px;
     right: 0;
     left: 0;
+    
 }
 
 .navbarNav{
@@ -19,14 +23,14 @@ nav{
     top:0;
     width: 100%;
     height: 20%;
-   
+    background-color:#617936 ;
 }
 
 
 footer {
     position: fixed;
     bottom: 0;
-    background-color: aqua;
+    background-color: #594736;
     width: 100%;
     margin-left: 0;
     height: 40px;
@@ -68,6 +72,7 @@ footer {
     top: 10%;
     bottom: 40px;
     padding: 1%;
+    
 }
 #carouselExampleIndicators{
     width: 100%;
